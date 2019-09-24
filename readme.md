@@ -4,7 +4,7 @@ Added ETH_ROPSTEN for Trustee Wallet
 
 ## Online Version
 
-./src/
+https://trustee-wallet.github.io/bip39/index.html
 
 ## Standalone offline version
 
