@@ -1,19 +1,16 @@
-# BIP39 Tool
+# BIP39 Tool improved for Trustee Wallet Users
 
-A tool for converting BIP39 mnemonic phrases to addresses and private keys.
+Added ETH_ROPSTEN for Trustee Wallet
 
 ## Online Version
 
-https://iancoleman.io/bip39/
 
 ## Standalone offline version
 
-Download `bip39-standalone.html` from
-[the releases](https://github.com/iancoleman/bip39/releases).
+Just download it and run src/index.html in a browser
 
-Open the file in a browser by double clicking it.
 
-This can be compiled from source using the command `python compile.py`
+# Basic Instruction
 
 ## Usage
 
