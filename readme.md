@@ -4,10 +4,11 @@ Added ETH_ROPSTEN for Trustee Wallet
 
 ## Online Version
 
+./src/
 
 ## Standalone offline version
 
-Just download it and run src/index.html in a browser
+Just download it and run index.html in a browser
 
 
 # Basic Instruction
